@@ -8,10 +8,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Rambabu%20Kushwaha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20|%20DevOps%20|%20Full-Stack%20|%20Researcher%20|%20Lifelong%20Learner&descAlignY=60&descAlign=50" />
 </div>
 
-<!-- Profile Views Counter -->
-<p align="center">
+<!-- Enhanced Profile Analytics -->
+<div align="center">
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Rambabu-kushwaha&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-</p>
+  
+  <!-- Country specific visits - shows where visitors are from -->
+  <a href="https://info.flagcounter.com/Rambabu-kushwaha">
+    <img src="https://s11.flagcounter.com/count2/Rambabu-kushwaha/bg_161B22/txt_FFFFFF/border_161B22/columns_3/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+  
+  <!-- Visitor log with timestamps - only counts, not individual identities -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Rambabu-kushwaha&label=Visitors&pretty=true&color=11&icon=5&pretty=true" />
+  </a>
+</div>
 
 <!-- Typing SVG for animated text -->
 <p align="center">
