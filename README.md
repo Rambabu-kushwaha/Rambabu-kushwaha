@@ -1,3 +1,8 @@
+<!-- Forest Cover Image -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/assets/forest-cover.jpg" width="100%" alt="Forest at sunrise" />
+</div>
+
 <!-- Animated Header with CSS (GitHub supports some HTML/CSS in READMEs) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Rambabu%20Kushwaha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20|%20DevOps%20|%20Full-Stack%20|%20Researcher%20|%20Lifelong%20Learner&descAlignY=60&descAlign=50" />
